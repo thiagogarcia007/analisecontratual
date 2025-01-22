@@ -1,0 +1,9 @@
+﻿id,tema,requisito,fundamento_legal,observacoes,prioridade
+1,Identificação,"Indicar dados completos das partes (nome, CNPJ, endereço, etc.).","CDC, art. 46","Permite verificar quem contrata e quem presta o serviço","Alta"
+2,Objeto do Contrato,"Descrever de forma clara o que está sendo contratado (serviço ou bem)","CDC, arts. 6º, III, 46, 52","Evitar ambiguidades sobre escopo e limites do serviço","Alta"
+3,Preço e Pagamento,"Informar valor, forma de pagamento, juros, multas, encargos.","CDC, art. 52 (contratos de crédito), arts. 46","Se houver parcelamento, detalhar taxas e número de parcelas","Alta"
+4,Rescisão,"Prever condições de término do contrato e eventuais multas.","CDC, art. 51, II, IV","Evitar cláusulas abusivas que impeçam o consumidor de encerrar o contrato","Média"
+5,Garantias/Vícios,"Definir formas de reparo, trocas, reexecução do serviço, prazos etc.","CDC, arts. 18 a 20, 26, 27","Fundamental para serviços continuados ou bens sujeitos a defeitos","Alta"
+6,"Direito de Arrependimento","Em vendas fora do estabelecimento, prever 7 dias de arrependimento","CDC, art. 49","Aplica-se a e-commerce ou contratos realizados a distância","Média"
+7,"Cláusulas Abusivas","Evitar renúncia a direitos ou desequilíbrio excessivo","CDC, art. 51","Exemplos típicos (foro exclusivo ao fornecedor, limitação integral de responsabilidade)","Alta"
+8,"Proteção de Dados","Disposições sobre tratamento de dados, base legal, etc.","LGPD (Lei 13.709/18)","Necessário se o serviço exigir coleta e uso de dados pessoais","Média"
